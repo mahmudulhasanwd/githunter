@@ -57,6 +57,21 @@ ul {
     -moz-box-shadow: 0px 0px 5px rgba(0,0,0,.5);   
 }
 
+
+/* -- telyphone area start -- */
+
+.phone-wrapper ul li {
+    display: inline-block;
+    padding: 15px;
+    color: #fff;
+}
+
+.phone {
+    background: aqua;
+}
+
+/* -- telyphone area end -- */
+
 /* -- header area start -- */
 .header-wrapper {
     text-align: center;
@@ -76,11 +91,9 @@ ul {
 .header {
     background-color: green;
 }
-
-
-
-
 /* -- header area end -- */
+
+
 
 
 
